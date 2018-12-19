@@ -1,4 +1,7 @@
 # The Sydney Coding Club 
+<img src="img/Logo-SCC_final.png" align="right"  height="250" width="250"/>
+
+
 
 The coding club was motivated by
 [ozunconf 2018](http://ozunconf18.ropensci.org). The plan is to adopt a similar
@@ -13,7 +16,8 @@ people have worked on. You can have a look at the list of amazing projects
 a group of about 50 people accomplished in two working days at the ozunconf18.
 
 
-# Meeting
+Meeting
+--------
 
 The first meeting will occur at **Tuesday 3-5pm 18th Dec 2018, Carslaw 829, The
 University of Sydney**.
