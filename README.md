@@ -32,8 +32,13 @@ a group of about 50 people accomplished in two working days at the ozunconf18.
 - Occasional extended club gatherings on **5-7pm Fridays**. The aim is to particularly encourage industry coders (especially former usyd students or affiliated) to come. 
 
 
+
 Meeting
 --------
+
+Currently discussion happen in Slack channel of Sydney Bioinformatics and Biometrics. This will likely change in the future.  For those outside, you may like to sign up to the mailing list [here](https://docs.google.com/forms/d/1-ptDybpzjz20uJW1fDZeVR1S-aKAe6n_2L3ph2iva_A) so you can be notified about upcoming news or events. 
+
+*For other networks, check out the [Sydney Open Research Network](https://sydneyopenresearch.org/)!*
 
 - The second meeting will take place **Wednesday 3-5pm 16th Jan 2018, Carslaw 829, The University of Sydney**.
 - The first meeting occured at **Tuesday 3-5pm 18th Dec 2018, Carslaw 829, The
