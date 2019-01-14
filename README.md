@@ -36,7 +36,7 @@ a group of about 50 people accomplished in two working days at the ozunconf18.
 Meeting
 --------
 
-Currently discussion happen in Slack channel of Sydney Bioinformatics and Biometrics. This will likely change in the future.  For those outside, you may like to sign up to the mailing list [here](https://docs.google.com/forms/d/1-ptDybpzjz20uJW1fDZeVR1S-aKAe6n_2L3ph2iva_A) so you can be notified about upcoming news or events. 
+Currently discussions happen in Slack channel of Sydney Bioinformatics and Biometrics. This will likely change in the future.  For those outside, you may like to sign up to the mailing list [here](https://docs.google.com/forms/d/1-ptDybpzjz20uJW1fDZeVR1S-aKAe6n_2L3ph2iva_A) so you can be notified about upcoming news or events. 
 
 *For other networks, check out the [Sydney Open Research Network](https://sydneyopenresearch.org/)!*
 
