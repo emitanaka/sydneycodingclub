@@ -40,3 +40,6 @@ Meeting
 University of Sydney**.
 ![](img/meeting001.jpg)
 
+Acknowledgement 
+------
+The hex sticker for the coding club was made by [Sarah Romanes](https://twitter.com/sarah_romanes). 
