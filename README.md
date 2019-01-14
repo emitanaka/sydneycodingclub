@@ -29,7 +29,7 @@ a group of about 50 people accomplished in two working days at the ozunconf18.
 
 - Weekly meeting on 3-5pm Fridays once the semester begins.
 - Occasional tutorials, especially for beginners on 2-3pm Fridays. 
-- Occasional extended club gatherings on 5-7pm. The aim is to particularly encourage industry coders (especially former usyd students or affiliated) to come. 
+- Occasional extended club gatherings on 5-7pm Fridays. The aim is to particularly encourage industry coders (especially former usyd students or affiliated) to come. 
 
 
 Meeting
