@@ -40,10 +40,12 @@ Currently discussions happen in Slack channel of Sydney Bioinformatics and Biome
 
 *For other networks, check out the [Sydney Open Research Network](https://sydneyopenresearch.org/)!*
 
-- The second meeting will take place **Wednesday 3-5pm 16th Jan 2018, Carslaw 829, The University of Sydney**.
 - The first meeting occured at **Tuesday 3-5pm 18th Dec 2018, Carslaw 829, The
 University of Sydney**.
 ![](img/meeting001.jpg)
+
+For future meetings, it will be emailed out to those one the [mailing list](https://docs.google.com/forms/d/1-ptDybpzjz20uJW1fDZeVR1S-aKAe6n_2L3ph2iva_A). 
+
 
 Acknowledgement 
 ------
